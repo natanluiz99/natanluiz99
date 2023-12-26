@@ -31,7 +31,7 @@
 ![Natan's GitHub stats](https://github-readme-stats.vercel.app/api?username=natanluiz99&count_private=true&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natanluiz99&theme=dracula&layout=compact)](https://github.com/arTW0/github-readme-stats)
 
-![Views](https://komarev.com/ghpvc/?username=arTW0&style=for-the-badge&color=282a36)
+![Views](https://komarev.com/ghpvc/?username=natanluiz99&style=for-the-badge&color=282a36)
 
 
     https://github-readme-stats.vercel.app/api/top-langs/?username=natanluiz99&layout=compact&langs_count=7&theme=dracula
